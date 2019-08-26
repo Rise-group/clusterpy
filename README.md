@@ -1,5 +1,5 @@
 
-<img src="data/figs/rise_logo.png" alt="Estructura Carpeta" align="center">
+<img src="rise_logo.png" alt="Rise group" align="center">
 
 ## clusterPy: Library of spatially constrained clustering algorithms
 
