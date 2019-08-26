@@ -3,7 +3,7 @@
 
 ## clusterPy: Library of spatially constrained clustering algorithms
 
-Juan C. Duque<sup>1,2</sup>, Boris Dev<sup>1</sup>, Alejandro Betancourt<sup>2,3</sup> and Jose L. Franco<sup>2,3</sup>
+Juan C. Duque<sup>1,2</sup>, Boris Dev<sup>1,2</sup>, Alejandro Betancourt<sup>1,2</sup> and Jose L. Franco<sup>1,2</sup>
 
 
 <sup>1</sup> Department of Mathematical Sciences, Universidad EAFIT, Medellin, Colombia
